@@ -1,2 +1,31 @@
 # Business-Sales-Performance-Analytics
-Rishu, GitHub par upload karna bahut easy hai. 🚀  Step 1: GitHub Account  Agar account nahi hai:  GitHub Official Website  Sign Up kar lo.  Step 2: New Repository Banao Login karo. Upar + → New Repository Repository Name: Business-Sales-Performance-Analytics Description: Business Sales Performance Analytics Dashboard using Power BI
+## Project Overview
+This project analyzes business sales data using Power BI.
+
+## Objectives
+- Analyze sales trends
+- Identify top-selling products
+- Evaluate category performance
+- Compare regional sales performance
+
+## Tools Used
+- Power BI
+- CSV Dataset
+
+## Dashboard Features
+- Total Sales KPI
+- Total Profit KPI
+- Total Quantity KPI
+- Total Orders KPI
+- Monthly Sales Trend
+- Top 10 Products
+- Category-wise Sales
+- Region-wise Sales
+
+## Key Insights
+- Technology category generated high sales.
+- West region showed strong performance.
+- Top products contributed significantly to revenue.
+
+## Author
+Rishabh Kumar
